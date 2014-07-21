@@ -11,3 +11,6 @@ Calculate ingredients from your own ratios. Fancy spreadsheet as a website.
 
 ## Name That Color for DuckDuckGo
 http://chir.ag/projects/name-that-color/ for the DuckDuckGo color instant answer
+
+## Checklist Editor
+Online editor for checklists, create items, save definitions to JSON, save checks to json, load definitions and saves from json
